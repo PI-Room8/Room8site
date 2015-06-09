@@ -52,7 +52,7 @@ h1 {
 	padding:0 0 50px;
 	padding-top:80px;
     margin-top:-80px;
-    background:#FFFAF0;
+    background:#fff;
 }
 
 .screen{
@@ -81,7 +81,7 @@ h1 {
 }
 
 #prem {
-	background: #696969;
+	background: #61c2aa;
 }
 
 #prem * {
@@ -120,7 +120,7 @@ h1 {
 }
 
 #team {
-	background:#303030;
+	background:#43848B;
 
 	padding-top:80px;
     margin-top:-80px;
@@ -163,12 +163,12 @@ h1 {
 }
 
 .navbar .brand {
-	font-size:19px;
+	font-size:25px;
 	font-weight: 300;
 	text-shadow:none;
 	padding:20px 0 0;
 	font-family: raleway;
-	color: #fff!important;
+	color: #61c2aa!important;
 }
 
 .navbar .nav.pull-right {
@@ -176,8 +176,8 @@ h1 {
 }
 
 .navbar .nav > li > a {
-	color:#F8F8F8;
-	font-size:15px;
+	color:#61c2aa;
+	font-size:20px;
 	font-weight:300;
 	text-shadow:none;
 	-webkit-transition:all .1s linear;
