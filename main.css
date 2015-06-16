@@ -91,6 +91,7 @@ h1 {
 #prem h4 {
 	font-size: 20px;
 	line-height: 2;
+	text-align: justify;
 }
 
 #about {
@@ -115,13 +116,14 @@ h1 {
 	font-size: 20px;
 	font-weight: bold;
 	color: black;
-	text-align: center;
+	text-align: justify;
 }
 
 #about .pres {
 	font-size: 18px;
 	line-height: 2;
 	color: black;
+	text-align: justify;
 }
 
 #team {
@@ -135,12 +137,22 @@ h1 {
 #team * {
 	color:white;
 }
+
+#team p {
+	font-size: 20px;
+	text-align: center;
+	line-height: 2;
+}
 #contact {
 	background:#202020;
 }
 
 #contact * {
 	text-align: center;
+}
+
+#contactez * {
+	font-size: 17.5px;
 }
 
 
